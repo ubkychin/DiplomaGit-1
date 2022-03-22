@@ -11,7 +11,7 @@ Price: float
 
 In teams of 2 or 3 you must:
 
-Fork this repo before you begin
+One person should fork this repo before you begin.  Others should fork from that one **or** add other members to the repo
 - Complete the Class Library
 - Complete the API - _instructions on how to access the DB are in a ReadMe file on that project_
 - Write some units tests for the class library
