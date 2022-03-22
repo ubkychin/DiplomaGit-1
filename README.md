@@ -3,12 +3,15 @@
 ## Practice branching, pull requests and merging as a team
 
 This is a simple application that reads products from a MongoDB.
+
 **Product**
 Name: string
 Qty: int
 Price: float
 
 In teams of 2 or 3 you must:
+
+Fork this repo before you begin
 - Complete the Class Library
 - Complete the API - _instructions on how to access the DB are in a ReadMe file on that project_
 - Write some units tests for the class library
