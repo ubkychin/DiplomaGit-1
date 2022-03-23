@@ -5,8 +5,11 @@
 This is a simple application that reads products from a MongoDB.
 
 **Product**
+
 Name: string
+
 Qty: int
+
 Price: float
 
 In teams of 2 or 3 you must:
