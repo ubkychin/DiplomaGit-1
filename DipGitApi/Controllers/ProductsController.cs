@@ -76,5 +76,25 @@ namespace DipGitApi.Controllers
         public async Task<IActionResult> Delete(string id) {
             return BadRequest();
         }
+
+        /// <summary>
+        /// Returns the total qty of item from all products
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet("GetTotalQty")]
+        public async Task<IActionResult> GetTotalQty() {
+            // Read all products and create a Products object.  Use the products object to determine the total qty
+            return BadRequest();
+        }
+
+        /// <summary>
+        /// Returns the total value of all item prices summed.
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet("GetTotalValue")]
+        public async Task<IActionResult> GetTotalValue() {
+            // Read all products and create a Products object.  Use the products object to determine the total value
+            return BadRequest();
+        }
     }
 }
