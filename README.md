@@ -27,7 +27,7 @@ Each member of the team should do one of the above tasks
 
 _Please be aware that the DB is being used by other groups.  Refrain from interacting with the DB inappropriatley_
 
-#GitFlow
+# GitFlow
 
 - The database now has a customers table and api
 
