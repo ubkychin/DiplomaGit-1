@@ -17,7 +17,7 @@ namespace DipGitApiLib {
         /// </summary>
         /// <returns></returns>
         public int GetTotalQtyProducts() {
-            throw new NotImplementedException();
+            return this.ProductList.Sum(product => product.Qty);
         }
 
         /// <summary>
